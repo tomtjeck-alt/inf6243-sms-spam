@@ -1,0 +1,6 @@
+,combinaisons testées,temps (s),meilleurs hyperparamètres
+Naive Bayes,20,10.4,"{'clf__alpha': 0.05, 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 2)}"
+Régression logistique,16,2.4,"{'clf__C': 100, 'clf__class_weight': 'balanced', 'tfidf__ngram_range': (1, 2)}"
+SVM linéaire,16,2.0,"{'clf__C': 1, 'clf__class_weight': 'balanced', 'tfidf__ngram_range': (1, 2)}"
+Random Forest,8,17.5,"{'clf__class_weight': None, 'clf__max_depth': None, 'clf__n_estimators': 200}"
+KNN,10,1.3,"{'clf__n_neighbors': 15, 'clf__weights': 'distance'}"

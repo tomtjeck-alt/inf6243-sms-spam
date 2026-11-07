@@ -1,0 +1,10 @@
+SMS Spam Collection (UCI Machine Learning Repository, dataset #228)
+https://archive.ics.uci.edu/dataset/228/sms+spam+collection
+Téléchargement direct : https://archive.ics.uci.edu/static/public/228/sms+spam+collection.zip
+
+Référence : Almeida, T. A., Gómez Hidalgo, J. M., & Yamakami, A. (2011).
+Contributions to the study of SMS spam filtering: new collection and results.
+Proceedings of the 11th ACM Symposium on Document Engineering (DocEng '11), 259-262.
+
+Contenu : 5 574 SMS en anglais (4 827 ham, 747 spam). Fichier SMSSpamCollection
+au format TSV : <label>\t<message>. Placer le fichier dans Data/ pour exécuter le notebook.

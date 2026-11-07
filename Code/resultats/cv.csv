@@ -1,0 +1,7 @@
+Modèle,CV accuracy (moy),CV precision (moy),CV recall (moy),CV f1 (moy),CV f1 (écart-type)
+Naive Bayes,0.987,0.9812,0.9147,0.9467,0.014
+Régression logistique,0.9892,0.9645,0.9496,0.957,0.0082
+SVM linéaire,0.9909,0.9753,0.9519,0.9634,0.011
+Random Forest,0.9834,0.995,0.873,0.9299,0.0113
+KNN,0.9837,0.995,0.8753,0.9312,0.0149
+BiLSTM,0.9796,0.908,0.9343,0.9205,0.0152
